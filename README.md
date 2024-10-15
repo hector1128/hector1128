@@ -7,13 +7,13 @@ Hi there, I'm Hector Cordero 👋
 
 🌍 Originally from Venezuela, aiming to use Software Engineering to improve my homeland
 
-💻 Currently building: RaceFree, an app that gives individuals a specific running plan based on demographics
+💻 Currently building: RunFree, an app that gives individuals a specific running plan based on demographics
 
 Interests & Goals:
 
 💡 Software engineering, AI, and web development
 
-🛠 Learning: Python, JavaScript, Flask, Git, and more!
+🛠 Learning: Python, C++, JavaScript, Flask, Git, and more!
 
 👨‍💼 Actively seeking internships and collaborative projects
 
