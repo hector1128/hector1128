@@ -7,8 +7,6 @@
 
 - 📫 How to reach me **hector.corderod@gmail.com**
 
-- 📄 Know about my experiences [https://hectorcordero.com/home/hector_cordero_resume.pdf](https://hectorcordero.com/home/hector_cordero_resume.pdf)
-
 - ⚡ Fun fact **I can run a mile in 4:34 seconds!**
 
 <h3 align="left">Connect with me:</h3>
