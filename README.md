@@ -1,7 +1,7 @@
 <h1 align="center">Hola, I'm Hector Cordero</h1>
 <h3 align="center">A student at UCF majoring in Computer Science with a minor in Math and a specialization in AI/ML.</h3>
 
-- 🔭 I’m currently working on [FirstStep](https://github.com/hector1128/firststep)
+- 🔭 I’m currently working on the well-being and mental health of folks with aphasia. [Aphasia](https://github.com/hector1128/aphasia)
 
 - 👨‍💻 All of my projects are available at [https://www.hectorcordero.com](https://www.hectorcordero.com)
 
